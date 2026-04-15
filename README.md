@@ -54,8 +54,8 @@ Penelitian ini mengimplementasikan **Whale Optimization Algorithm (WOA)** — al
 
 | Parameter          | Nilai    | Keterangan                     |
 | ------------------ | -------- | ------------------------------ |
-| `BATTERY_CAPACITY` | 500 Wh   | Kapasitas baterai drone        |
-| `ALPHA`            | 15 Wh/km | Konsumsi energi per kilometer  |
+| `BATTERY_CAPACITY` | 4000 Wh   | Kapasitas baterai drone        |
+| `ALPHA`            | 20 Wh/km | Konsumsi energi per kilometer  |
 | Range              | 33.33 km | Jarak maksimum per full charge |
 
 ### Parameter WOA
