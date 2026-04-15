@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "GenDatav2",
+        "request": "launch",
+        "mainClass": "GenDatav2",
+        "projectName": "DroneRoutingProblem_31ec0ea3"
+    },
+    {
+        "type": "java",
+        "name": "CreateDataset",
+        "request": "launch",
+        "mainClass": "CreateDataset",
+        "projectName": "DroneRoutingProblem_31ec0ea3"
+    },
+    {
+        "type": "java",
+        "name": "WOA",
+        "request": "launch",
+        "mainClass": "WOA",
+        "projectName": "DroneRoutingProblem_31ec0ea3"
+    },
+    {
+        "type": "java",
+        "name": "DroneRoutingGUI",
+        "request": "launch",
+        "mainClass": "DroneRoutingGUI",
+        "projectName": "DroneRoutingProblem_31ec0ea3",
+        "vmArgs": "--module-path \"C:/javafx-sdk-21/lib\" --add-modules javafx.controls"
+    }
+]
+}
